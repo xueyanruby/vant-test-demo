@@ -6,7 +6,8 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// import HelloWorld from './components/HelloWorld.vue' //无vant组件
+import HelloWorld from './components/HelloWorld1.vue' //有vant组件
 
 export default {
   name: 'App',

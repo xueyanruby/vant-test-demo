@@ -1,5 +1,7 @@
 # vant-demo
 
+> node v14.8.0
+
 ## Project setup
 ```
 npm install
